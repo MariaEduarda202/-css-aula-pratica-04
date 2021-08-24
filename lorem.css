@@ -1,0 +1,16 @@
+.div1 { border-style: hidden; background-color: rgb(44, 18, 18);
+
+
+
+ height: 300px;
+ width: 300px;
+}
+.div2 {border-style: hidden; background-color: gray;
+   height: 600px;
+   width: 700px;
+   
+}
+.div1{float: inline-start;}
+.div2{ float: right;}
+.div2{font-size: 20px;
+color: white;}

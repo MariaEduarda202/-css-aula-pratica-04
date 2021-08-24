@@ -1,0 +1,15 @@
+#caixa_com_box_model_01 {border-width: 7px;
+border-style: dotted;
+border-color: rgb(139,0,139) ;
+margin: 15px;
+padding: 20px;
+
+width: 350px;
+background-color:aliceblue;
+
+}
+p{font-style: italic;
+color: rgb(25,25,112);}
+
+p{text-align: right}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');

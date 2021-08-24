@@ -1,0 +1,44 @@
+#cinza{
+    width: 70%;
+    height: 220px;
+    background-color: rgb(126, 125, 125);
+    margin: 0 auto;
+}
+
+#vermelho{
+    width: 20%;
+    height: 180px;
+    background-color: rgb(255, 0, 0);
+    margin: 0 auto;
+    margin-top: -220px;
+}
+
+#azul{
+    width: 20%;
+    height: 40px;
+    background-color: rgb(0, 0, 255);
+    margin: 0 auto;
+}
+
+#verde{
+    background-color: green;
+    width: 38%;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 190px;
+}
+
+#azul-escuro{
+    background-color: #434282;
+    width: 25%;
+    height: 250px;
+    margin-left: 60%;
+    margin-top: -250px;
+}
+
+#marrom{
+    width: 100%;
+    height: 150px;
+    background-color: #AA8840;
+    margin-top: 50px;
+}
